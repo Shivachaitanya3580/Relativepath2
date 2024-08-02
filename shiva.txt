@@ -1,0 +1,1 @@
+ relative path refers to a location that is relative to a current directory. Relative paths make use of two special symbols, a dot (.) and a double dot (..), which translate into the current directory and the parent directory. Double dots are used for moving up in the hierarchy.
